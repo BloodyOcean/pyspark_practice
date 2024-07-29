@@ -4,7 +4,7 @@ import pytest
 from pyspark.sql import SparkSession
 from pyspark.sql.types import StructType, StructField, IntegerType, StringType, TimestampType, DateType, LongType
 
-from main import ETL
+from session_etl_main import ETL
 
 
 @pytest.fixture(scope="session")

@@ -160,5 +160,9 @@ cython_debug/
 #.idea/
 
 
-.result_issues/
-.critical_issues/
+result_issues/
+week_agg_report/
+reimbursement_report/
+critical_issues/
+data/*
+postgresql-42.7.3.jar
