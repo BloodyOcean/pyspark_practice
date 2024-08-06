@@ -1,0 +1,62 @@
+[
+  {
+    "date": "Thu Jul 11 2024",
+    "trips": [
+      {
+        "station": "Lviv main station",
+        "platform": 1,
+        "train_no": "1234",
+        "sked_dep_time": "Thu Jul 11 15:52:18 2024",
+        "sked_arr_time": "Thu Jul 11 14:52:18 2024",
+        "act_dep_time": "Thu Jul 11 16:00:18 2024",
+        "act_arr_time": "Thu Jul 11 15:05:18 2024"
+      },
+      {
+        "station": "Kyiv main station",
+        "platform": 2,
+        "train_no": "444",
+        "sked_dep_time": "Thu Jul 11 15:52:18 2024",
+        "sked_arr_time": "Thu Jul 11 15:32:18 2024",
+        "act_dep_time": "Thu Jul 11 15:53:18 2024",
+        "act_arr_time": "Thu Jul 11 16:33:18 2024"
+      }
+    ]
+  },
+  {
+    "date": "Fri Jul 12 2024",
+    "trips": [
+      {
+        "station": "Lviv main station",
+        "platform": 2,
+        "train_no": "245",
+        "sked_dep_time": "Thu Jul 12 15:52:18 2024",
+        "sked_arr_time": "Thu Jul 12 14:52:18 2024",
+        "act_dep_time": "Thu Jul 12 15:52:18 2024",
+        "act_arr_time": "Thu Jul 12 14:52:18 2024"
+      },
+      {
+        "station": "Kyiv main station",
+        "platform": 3,
+        "train_no": "123",
+        "sked_dep_time": "Thu Jul 12 16:50:18 2024",
+        "sked_arr_time": "Thu Jul 12 16:30:18 2024",
+        "act_dep_time": "Thu Jul 12 17:50:18 2024",
+        "act_arr_time": "Thu Jul 12 17:30:18 2024"
+      }
+    ]
+  },
+  {
+    "date": "Sun Jul 14 2024",
+    "trips": [
+      {
+        "station": "Dnipro main station",
+        "platform": 5,
+        "train_no": "888",
+        "sked_dep_time": "Sun Jul 14 15:52:18 2024",
+        "sked_arr_time": "Sun Jul 14 14:52:18 2024",
+        "act_dep_time": "Sun Jul 14 15:52:18 2024",
+        "act_arr_time": "Sun Jul 14 14:52:18 2024"
+      }
+    ]
+  }
+]

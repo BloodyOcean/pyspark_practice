@@ -1,0 +1,71 @@
+[
+  {
+    "date": "Thu Jul 11 2024",
+    "users": [
+      {
+        "user_id": "5356",
+        "full_name": "Harry Potter",
+        "station": "Lviv main station",
+        "platform": 1,
+        "sked_dep_time": "2024-07-11 12:52:18 UTC",
+        "class": "VIP",
+        "price": 123.8
+      },
+      {
+        "user_id": "5357",
+        "full_name": "John Doe",
+        "station": "Lviv main station",
+        "platform": 1,
+        "sked_dep_time": "2024-07-11 12:52:18 UTC",
+        "class": "STANDART",
+        "price": 76.8
+      }
+    ]
+  },
+  {
+    "date": "Fri Jul 12 2024",
+    "users": [
+      {
+        "user_id": "5358",
+        "full_name": "John Jones",
+        "station": "Kyiv main station",
+        "platform": 3,
+       "sked_dep_time": "2024-07-12 13:50:18 UTC",
+        "class": "VIP",
+        "price": 200.50
+      },
+      {
+        "user_id": "5358",
+        "full_name": "John Jones",
+        "station": "Kyiv main station",
+        "platform": 3,
+       "sked_dep_time": "2024-07-12 13:50:18 UTC",
+        "class": "VIP",
+        "price": 200.50
+      },
+      {
+        "user_id": "5359",
+        "full_name": "Bill Jones",
+        "station": "Kyiv main station",
+        "platform": 3,
+       "sked_dep_time": "2024-07-12 13:50:18 UTC",
+        "class": "STANDART",
+        "price": 100.50
+      }
+    ]
+  },
+  {
+    "date": "Sun Jul 14 2024",
+    "users": [
+      {
+        "user_id": "123",
+        "full_name": "Ben Jones",
+        "station": "Dnipro main station",
+        "platform": 5,
+        "sked_dep_time": "2024-07-14 12:52:18 UTC",
+        "class": "VIP",
+        "price": 200.50
+      }
+    ]
+  }
+]
